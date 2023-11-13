@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.javiergarcia.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["05:EA:DA:06:04:13:0C:46:44:EB:6F:59:49:17:1F:A1:69:9C:8D:B2:2C:D6:36:C2:83:06:D6:88:D4:38:2B:72"]
+    }
+  }]
+  
